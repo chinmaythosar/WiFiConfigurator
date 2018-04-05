@@ -8,4 +8,4 @@ While this is nowhere close to being a sophesticated one, I found it interesting
 
 Requirements : chrome webdriver
 
-running the script : $python3 TP-Link.py
+running the script : $python3 ./TP-Link.py
